@@ -1,4 +1,4 @@
-##Calorie Burnt Predictor
+##Calorie Burnt Predictor:
 This project predicts the number of calories burned during physical activity using machine learning techniques.
 
 ##Features:
